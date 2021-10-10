@@ -9,4 +9,4 @@ msrest==0.4.1
 apache-libcloud
 six
 pyopenssl
-jinja2==2.8
+jinja2==2.11.3
